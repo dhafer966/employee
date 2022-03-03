@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.javaguides</groupId>
-	<artifactId>employee-management-webapp</artifactId>
+	<artifactId>webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee-management-webapp</name>
 	<description>Demo project for Spring Boot Thymeleaf and Hibernate </description>
